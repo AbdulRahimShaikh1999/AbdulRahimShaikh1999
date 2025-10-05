@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I'm Abdul Shaikh  
 
-<!--
-**AbdulRahimShaikh1999/AbdulRahimShaikh1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | Cloud Architect | Automation Enthusiast**
 
-Here are some ideas to get you started:
+I enjoy building scalable and resilient systems using **AWS**, **Terraform**, and **CI/CD pipelines**.  
+My focus is on improving developer experience, automation, and cloud cost optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technologies & Tools  
+- **Cloud:** AWS, Azure  
+- **IaC:** Terraform, CloudFormation  
+- **CI/CD:** GitHub Actions, Jenkins, CodePipeline  
+- **Containers:** Docker, ECS  
+- **Monitoring:** CloudWatch, CloudTail
+
+## 🌱 Currently Learning  
+- AWS Bedrock and Generative AI integration  
+- Advanced GitHub Actions workflows  
+
+## 📫 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/arahimshaikh/)
+- [GitHub Projects](https://github.com/AbdulRahimShaikh1999)
