@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Abdul Shaikh  
+# 👋 Hey, I'm Abdul!  
 
 🚀 **DevOps Engineer | Cloud Architect | Automation Enthusiast**
 
@@ -10,7 +10,7 @@ My focus is on improving developer experience, automation, and cloud cost optimi
 - **IaC:** Terraform, CloudFormation  
 - **CI/CD:** GitHub Actions, Jenkins, CodePipeline  
 - **Containers:** Docker, ECS  
-- **Monitoring:** CloudWatch, CloudTail
+- **Monitoring:** CloudWatch, CloudTrail
 
 ## 🌱 Currently Learning  
 - AWS Bedrock and Generative AI integration  
