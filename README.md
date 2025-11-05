@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Abdul!  
 
-🚀 **DevOps Engineer | Cloud Architect | Automation Enthusiast**
+🚀 **DevOps Engineer | Cloud Architect**
 
 I enjoy building scalable and resilient systems using **AWS**, **Terraform**, and **CI/CD pipelines**.  
 My focus is on improving developer experience, automation, and cloud cost optimization.
